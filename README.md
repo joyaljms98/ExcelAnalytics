@@ -1,6 +1,6 @@
 # 📊 Excel Analytics Platform
 
-A powerful MERN stack application designed for visualizing and analyzing data from Excel files (.xls or .xlsx) using interactive 2D and 3D charts. It features secure JWT authentication, history tracking, and optional AI-powered data summarization using Gemini or OpenAI.
+A powerful MERN stack application designed as part of Zidio Web Development class project for visualizing and analyzing data from Excel files (.xls or .xlsx) using interactive 2D and 3D charts. It features secure JWT authentication, history tracking, and optional AI-powered data summarization using Gemini or OpenAI.
 
 -----
 
